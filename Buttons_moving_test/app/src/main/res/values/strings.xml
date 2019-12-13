@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Buttons_moving_test</string>
+    <string name="manual">Manual  </string>
+    <string name="joy_stick_limit_right">joy stick limit right</string>
+    <string name="joy_stick_limits_left">Joy stick limits left</string>
+</resources>
